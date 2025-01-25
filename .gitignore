@@ -1,3 +1,9 @@
+# AGGIUNTO DA ELIO
+# Ignora configurazione finestra
+Config/DefaultEditor.ini
+# Roba di merda del mac :)
+*.DS_Store
+
 # Visual Studio 2015 user specific files
 .vs/
 
